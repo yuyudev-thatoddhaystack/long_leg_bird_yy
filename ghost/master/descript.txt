@@ -1,0 +1,22 @@
+charset,UTF-8
+
+name,Long Leg Bird (with top hat)
+type,ghost
+
+shiori,yaya.dll
+
+craftman,Vita/yuyudev
+craftmanw,Vita/yuyudev
+craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
+
+sakura.name,Bird
+kero.name,None
+
+icon,icon.ico
+
+sstp.allowunspecifiedsend,0
+
+kero.seriko.defaultsurface,99999
+
+balloon,Spirit Detective
+default.balloon.path,/spirit_detective

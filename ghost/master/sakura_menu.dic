@@ -1,0 +1,27 @@
+
+//Because there is an all modifier here, you don't need to write -- between menu options
+OnSakuraMenu : nonoverlap_pool
+{
+    surface = 0;
+    timer = 0;
+    --
+	"\0\s[%(surface)]\i[4]tweet tweet"
+    "\0\s[%(surface)]\i[4]tweeeeeeeeeeeeeeeeeeeet"
+    "\0\s[%(surface)]\i[4]tweet?"
+    "\0\s[%(surface)]\i[4]tweet."
+    "\0\s[%(surface)]\i[4]chirpchirp."
+    "\0\s[%(surface)]\i[4]chirp"
+    "\0\s[%(surface)]\i[4]chirp!"
+    "\0\s[%(surface)]\i[4]chirpchirp tweet"
+    "\0\s[%(surface)]\i[4]tweet..."
+    "\0\s[%(surface)]\i[4]trilltrill"
+    "\0\s[%(surface)]\i[4]cawcaw"
+    "\0\s[%(surface)]\i[4]                        caw"    
+    "\0\s[%(surface)]\i[4]chirp chirp chirp"
+    "\0\s[%(surface)]\i[4]tweet? tweet."
+    "\0\s[%(surface)]\i[4]caw caw chirp"
+    "\0\s[%(surface)]\i[4]coo"
+    "\0\s[%(surface)]\i[4]coo coo?"
+    "\0\s[%(surface)]\i[4]coo tweet coo!"
+    "\0\s[%(surface)]\i[4]coo coo coo!"
+}

@@ -1,0 +1,36 @@
+OnAiTalk
+{
+	if CHAIN.IDName == ""
+	{
+		LastTalk = RandomTalk
+	}
+	else
+	{
+		LastTalk = ChainTalk
+	}
+	LastTalk
+}
+
+RandomTalk : nonoverlap_pool
+{
+
+}
+
+OnSecondChange{
+    timer++
+    
+    if (timer%15 == 0){
+    
+        surface++
+        
+        if surface > 230 {
+            surface = 230
+        }
+        
+        "\0\s[%(surface)]"
+    
+    }
+    
+
+
+}
