@@ -1,4 +1,6 @@
-A normal bird with long legs and a top hat. Nothing more to say.
+A normal bird with long legs and a top hat.
+
+For Ghost Jam 2024
 
 I recommend Spirit Detective (https://gallathegalla.github.io/gtg-ghosts/balloons/spirit_detective) as their balloon, but you can use whatever you would like.
 
